@@ -1,0 +1,4 @@
+name: EasyInvs
+version: '${project.version}'
+main: fr.propan.easyinvs.EasyInvs
+api-version: '1.20'
